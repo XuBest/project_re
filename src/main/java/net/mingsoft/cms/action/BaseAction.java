@@ -29,7 +29,7 @@ import java.util.MissingResourceException;
  * @Date: 2019/8/9 20:47
  */
 public class BaseAction extends net.mingsoft.basic.action.BaseAction{
-    @Override
+  /*@Override*/
     protected String getRes000String(String key) {
         // TODO Auto-generated method stub
         String str = "";
